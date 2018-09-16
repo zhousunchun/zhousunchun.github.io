@@ -1,9 +1,9 @@
 # Basic
-title: Abbott
-subtitle: 身体和灵魂，必须有一个在路上
-welcome_message: Welcome Abbott's world
-description: 分享技术，分享生活
-creator: <a href="#">@Abbott</a>
+title: 棕熊的肚皮
+subtitle: 海纳百川，有容乃大
+welcome_message: Welcome TarlorChun's world
+description: SLAM　小白
+creator: <a href="#">@TailorChun</a>
 
 url: "http://vno.onevcat.com"
 
@@ -22,16 +22,16 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'https://github.com/jinyb09017/jinyb09017.github.io'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/zhousunchun/zhousunchun.github.io'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 categeries:
-    - {title: android, description: 安卓技术, url: '/category/android/index.html'}
-    - {title: javascript, description: javascript技术, url: '/category/javascript/index.html'}
-    - {title: tools, description: 实用工具介绍, url: '/category/tools/index.html'}
-    - {title: talk, description: 技术杂谈, url: '/category/talk/index.html'}
-    - {title: java, description: java技术, url: '/category/java/index.html'}
-    - {title: network, description: 网络协议, url: '/category/network/index.html'}
+    - {title: SLAM, description: SLAM学习, url: '/category/slam/index.html'}
+    - {title: C++, description: C++学习, url: '/category/c++/index.html'}
+    - {title: Practice, description: 代码实践, url: '/category/practice/index.html'}
+    - {title: Talk, description: 技术杂谈, url: '/category/talk/index.html'}
+    - {title: Tools, description: 实用工具介绍, url: '/category/tools/index.html'}
+    #- {title: network, description: 网络协议, url: '/category/network/index.html'}
 # Pagination
 gems: [jekyll-paginate]
 paginate: 10
@@ -40,16 +40,16 @@ paginate_path: "page/:num/"
 # Comment 这是disqus的评论系统
 comment:
     disqus: abbott-king
-    # duoshuo: 
-    
+    # duoshuo:
+
 # Social
 
 social:
-    weibo: abbottking
-    github: jinyb09017
-    twitter: mrjinyb
-    gplus: 109069755103858985204
-    mail: jyb_96@sina.com
+#    weibo: abbottking
+    github: zhousunchun
+#    twitter: mrjinyb
+#    gplus: 109069755103858985204
+    mail: zhousunchun@gmail.com
 
 # Google Analytics
 ga:
@@ -58,5 +58,10 @@ ga:
 
 leancloud:
   enable: true
-  app_id: n9H2t3VFwwMPqC0rSYfvlJuu-gzGzoHsz
-  app_key: DkeWUHsd9YIYIsnKRg6vw1Lk
+  app_id: dywMPzRcBYesEIViNkYb2rV6-gzGzoHsz
+  app_key: p28m9n8mbjADPCgiuLekxmIe
+
+#leancloud:
+#  enable: true
+#  app_id: n9H2t3VFwwMPqC0rSYfvlJuu-gzGzoHsz
+#  app_key: DkeWUHsd9YIYIsnKRg6vw1Lk
