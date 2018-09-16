@@ -37,9 +37,13 @@ gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
 
+
+livere_uid: MTAyMC8zOTc1MC8xNjI3Nw==
 # Comment 这是disqus的评论系统
 comment:
-    disqus: abbott-king
+  　# LaibiLi settings
+
+    #disqus: abbott-king
     # duoshuo:
 
 # Social
